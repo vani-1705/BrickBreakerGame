@@ -8,7 +8,9 @@ Smash the bricks, track your score, and challenge yourself!
  - Real-time scoring system 
 - Game Over and Win screens
  - Restart functionality 
-- Smooth ball and paddle movement 
+- Smooth ball and paddle movement
+![brickbreaker](https://github.com/user-attachments/assets/cc91b463-350b-4b63-835d-5f88febb078b)
+
 --- 
 ## 🚀 How to Run 
 1. Install Python (version 3.x) 
@@ -17,12 +19,9 @@ Smash the bricks, track your score, and challenge yourself!
 
 🛠️ Technologies Used
 
-• Python 3
-
+• Python 
 • Tkinter – for GUI and canvas rendering
-
 • OOP (Object-Oriented Programming) – clean class structure
-
 • Random module – for ball direction
 
 📁 Project Structure
@@ -47,7 +46,7 @@ This project is open-sourced under the MIT License. See LICENSE file for more de
 
 Yepparika.Vani Vasantha Laxmi 
 Beginner Python Developer | Game Enthusiast
-(https://www.linkedin.com/in/vani-vasantha-laxmi-yepparika-16023b286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app AND )
+(https://www.linkedin.com/in/vani-vasantha-laxmi-yepparika-16023b286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ☆ If you like this project
  give it ⭐️ on GitHub!
