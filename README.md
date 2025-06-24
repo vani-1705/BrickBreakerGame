@@ -3,8 +3,12 @@
 -In this game ball bounce and break the bricks by moving paddle.
 -Paddle movement based on buttons user use it.
 -Based on balls hitting bricks the score will increase.
+-Score will displays on top.
 -Ball should not touch ground if it is then game over.
 -User should restart the game.
+
+# GAME IDEA:
+This idea is from online games it is easy to play based on moving paddle the game will become interesting.
 
 A simple and addictive Brick Breaker game built using Python and Tkinter GUI. 
 Smash the bricks, track your score, and challenge yourself! 
