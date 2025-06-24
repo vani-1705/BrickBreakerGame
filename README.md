@@ -1,4 +1,11 @@
 # 🧱 Brick Breaker Game in Python (Tkinter) 
+# GAME LOGIC:
+-In this game ball bounce and break the bricks by moving paddle.
+-Paddle movement based on buttons user use it.
+-Based on balls hitting bricks the score will increase.
+-Ball should not touch ground if it is then game over.
+-User should restart the game.
+
 A simple and addictive Brick Breaker game built using Python and Tkinter GUI. 
 Smash the bricks, track your score, and challenge yourself! 
 --- 
