@@ -75,4 +75,53 @@ Each level increases:
 
 | Key | Action |
 |---|---|
-| ← | Move
+| ← | Move Paddle Left |
+| → | Move Paddle Right |
+| R | Restart Game |
+
+---
+
+## 📱 Responsive Gameplay
+- Smooth movement
+- Fast rendering
+- Optimized Tkinter performance
+
+---
+
+# 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Python | Game Logic |
+| Tkinter | GUI Framework |
+| Random Module | Random Power-Ups & Ball Direction |
+
+---
+
+# 📂 Project Structure
+
+```bash
+Brick-Breaker-Ultimate/
+│
+├── BrickBreaker.py
+└── README.md
+
+#💻 How To Run
+Step 1 — Install Python
+Check Python version:
+Bash
+python3 --version
+Step 2 — Install Tkinter (Linux/Ubuntu)
+Bash
+sudo apt install python3-tk
+Step 3 — Run Game
+Bash
+python3 BrickBreaker.py
+
+#🧠 How It Works
+Paddle controls the bouncing ball
+Ball destroys bricks on collision
+Bricks give different scores
+Random power-ups fall from bricks
+Player advances through levels
+Game ends when all lives are lost
